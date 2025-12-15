@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "There You Are",
+  "base_artist": "ZAYN",
+  "createdAt": "2025-12-15T01:54:52.317679Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "There You Are",
+      "artist": "Martina McBride",
+      "has_synced": true,
+      "path": "select/01_There_You_Are_Martina_McBride.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "There You Are (Jesus Song No.7)",
+      "artist": "The Flaming Lips",
+      "has_synced": false,
+      "path": "select/02_There_You_Are_(Jesus_Song_No.7)_The_Flaming_Lips.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "There You Are",
+      "artist": "ZAYN",
+      "has_synced": true,
+      "path": "select/03_There_You_Are_ZAYN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "There You Are and Here I Go",
+      "artist": "Left Front Tire",
+      "has_synced": false,
+      "path": "select/04_There_You_Are_and_Here_I_Go_Left_Front_Tire.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "There You Are",
+      "artist": "Die Happy",
+      "has_synced": false,
+      "path": "select/05_There_You_Are_Die_Happy.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "There You Are",
+      "artist": "The Sea and Cake",
+      "has_synced": true,
+      "path": "select/06_There_You_Are_The_Sea_and_Cake.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "There You Are",
+      "artist": "Goo Goo Dolls",
+      "has_synced": true,
+      "path": "select/07_There_You_Are_Goo_Goo_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "There You Are",
+      "artist": "The Goo Goo Dolls",
+      "has_synced": true,
+      "path": "select/08_There_You_Are_The_Goo_Goo_Dolls.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "There You Are",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/09_There_You_Are_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "There You Are",
+      "artist": "Zayn",
+      "has_synced": true,
+      "path": "select/10_There_You_Are_Zayn.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "There You Are",
+      "artist": "Millie Jackson",
+      "has_synced": false,
+      "path": "select/11_There_You_Are_Millie_Jackson.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "There You Are",
+      "artist": "WATCH THE DUCK",
+      "has_synced": true,
+      "path": "select/12_There_You_Are_WATCH_THE_DUCK.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "THERE YOU ARE (HIDING PLACE)",
+      "artist": "La Dispute",
+      "has_synced": true,
+      "path": "select/13_THERE_YOU_ARE_(HIDING_PLACE)_La_Dispute.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "There You Are",
+      "artist": "Iyaz",
+      "has_synced": true,
+      "path": "select/14_There_You_Are_Iyaz.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "There You Are",
+      "artist": "The Katinas",
+      "has_synced": false,
+      "path": "select/15_There_You_Are_The_Katinas.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "There You Are",
+      "artist": "Rupert Holmes",
+      "has_synced": true,
+      "path": "select/16_There_You_Are_Rupert_Holmes.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "There You Are (Second Chance)",
+      "artist": "Karen Souza",
+      "has_synced": true,
+      "path": "select/17_There_You_Are_(Second_Chance)_Karen_Souza.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "There You Are",
+      "artist": "ZAYN",
+      "has_synced": false,
+      "path": "select/pl_01_There_You_Are_ZAYN.txt"
+    }
+  ]
+}
