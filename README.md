@@ -1,0 +1,64 @@
+# ZAYN – There You Are
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.22] Only you know me the way you know me
+[00:04.23] Only you forgive me when I'm sorry
+[00:21.23] 
+[00:13.51] Need you when I'm broken, when I'm fixed
+[00:19.68] Need you when I'm well, when I'm sick
+[00:25.90] Friends that I rely on don't come through
+[00:32.10] They run like the river, but not you
+[00:50.10] 
+[00:38.89] Can't see when I'm fallin', losing myself
+[00:42.62] But then I hear you calling
+[00:56.12] 
+[00:45.43] There you are, there you are
+[00:48.79] You're there with open arms
+[00:51.66] There you are, there you are
+[00:55.64] And I run
+[01:00.14] 
+[00:58.50] Whispers in the background, behind closed doors
+[01:04.80] I got myself in a mess and without you I'm in more
+[01:11.63] Oh, I'm a little drunk now, that's why I went to war
+[01:17.28] Oh, yeah, you are my sober when I'm on the floor
+[01:41.28] 
+[01:22.46] Can't see when I'm fallin', losing myself
+[01:26.22] But then I hear you calling
+[01:39.72] 
+[01:29.12] There you are, there you are
+[01:32.52] You're there with open arms
+[01:35.29] There you are, there you are
+[01:38.78] And I run
+[01:43.28] 
+[01:41.06] Only you know me the way you know me
+[01:43.84] Only you forgive me when I'm sorry
+[01:47.72] Even when I messed it up
+[01:51.75] There you are
+[01:58.25] 
+[01:53.80] Need you when I'm hot
+[01:55.48] And when I'm cold
+[01:59.56] Need you when I'm young
+[02:01.98] When I'm old
+[02:05.04] You won't be far
+[02:13.04] 
+[02:07.08] There you are, there you are
+[02:10.32] You're there with open arms
+[02:12.76] There you are, there you are
+[02:16.57] And I run
+[02:21.07] 
+[02:18.31] Only you know me the way you know me
+[02:21.16] Only you forgive me when I'm sorry
+[02:25.15] Even when I messed it up
+[02:29.73] There you are
+[02:36.23] 
+[02:40.38] (Need you when I'm, need you when I'm)
+[02:41.44] (Need you when I'm, need you when I'm)
+[03:00.44] 
+[02:44.59] When you're caught in the crowds
+[02:50.33] When you're up in the clouds
+[02:56.64] When you're caught in the crowds
+[03:02.88] When you're up in the clouds
+[03:07.25] There you are
+```
